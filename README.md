@@ -1,8 +1,8 @@
 # Serverless Stack Facebook Login Demo React App
 
-[Serverless Stack](http://serverless-stack.com) is a free comprehensive guide to creating full-stack serverless applications. We create a [note taking app](http://demo.serverless-stack.com) from scratch.
+[Serverless Stack](http://serverless-stack.com) is a free comprehensive guide to creating full-stack serverless applications. We create a [note taking app](https://demo.serverless-stack.com) from scratch.
 
-This repo is a fork of the original guide with added support for a Login with Facebook option. You can visit [a hosted version of this app here]().
+This repo is a fork of the original guide with added support for a Login with Facebook option. You can visit [a hosted version of this app here](https://demo-fb-login.serverless-stack.com).
 
 #### Usage
 
